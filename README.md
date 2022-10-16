@@ -15,7 +15,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/gyanendra_tiwary_)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/gyanendra.tiwari.127648/)
 
-- You can check out my website at gyanendratiwary.github.io 
+- You can check out my website at @gyanendratiwary.github.io 
  
 
 <!---
